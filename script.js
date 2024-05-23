@@ -1,4 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
+    <link rel="stylesheet" href="style.css">
     const conceptForm = document.getElementById('concept-form');
     const videoSection = document.getElementById('video-section');
     const conceptVideo = document.getElementById('concept-video');
